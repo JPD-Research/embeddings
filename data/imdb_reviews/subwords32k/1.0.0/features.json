@@ -1,0 +1,19 @@
+{
+    "featuresDict": {
+        "features": {
+            "label": {
+                "classLabel": {
+                    "numClasses": "2"
+                },
+                "pythonClassName": "tensorflow_datasets.core.features.class_label_feature.ClassLabel"
+            },
+            "text": {
+                "jsonFeature": {
+                    "json": "{\"use_encoder\": true}"
+                },
+                "pythonClassName": "tensorflow_datasets.core.features.text_feature.Text"
+            }
+        }
+    },
+    "pythonClassName": "tensorflow_datasets.core.features.features_dict.FeaturesDict"
+}
